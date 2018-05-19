@@ -1,0 +1,12 @@
+.pr-cal-current-day, .pr-cal-day {
+    text-align: center;
+    height: 35px;
+    width: 35px;
+    padding-top: 7px;
+}
+
+.pr-cal-current-day {
+    background-color: red;
+    color: #fff;
+    border-radius: 50%;
+}
